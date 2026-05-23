@@ -1,0 +1,9 @@
+# 敏感数据
+.workbuddy/
+
+# 历史报告
+reports/
+
+# Python缓存
+__pycache__/
+*.pyc
